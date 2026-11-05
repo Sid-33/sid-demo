@@ -1,4 +1,4 @@
 # sid-demo
 This is my first git repository.
 <br>
-Author - Sidharth Garg
+Author - Sidharth-Garg
